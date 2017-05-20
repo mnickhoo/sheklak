@@ -6,7 +6,7 @@ include iranian startup icon , iranian bank , payment , popular city , ...
 you can now see Demo in [this link](http://nickhoo.ir/sheklak/demo/) 
 
   
-<h3> Discription </h3>
+<h3> Description </h3>
 sheklak fonts is a css font icons that no need to javaScripts library and simple use it. 
 
 
