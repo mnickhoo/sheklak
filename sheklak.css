@@ -1,0 +1,166 @@
+﻿@charset "UTF-8";
+
+@font-face {
+  font-family: "sheklak";
+  src:url("fonts/sheklak.eot");
+  src:url("fonts/sheklak.eot?#iefix") format("embedded-opentype"),
+    url("fonts/sheklak.woff") format("woff"),
+    url("fonts/sheklak.ttf") format("truetype"),
+    url("fonts/sheklak.svg#sheklak") format("svg");
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+[data-icon]:before {
+  font-family: "sheklak" !important;
+  content: attr(data-icon);
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="shek-"]:before,
+[class*=" shek-"]:before {
+  font-family: "sheklak" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.shek-digikala:before {
+  content: "\62";
+}
+.shek-snap:before {
+  content: "\66";
+}
+.shek-aparat:before {
+  content: "\63";
+}
+.shek-azadi:before {
+  content: "\64";
+}
+.shek-bank-saderat:before {
+  content: "\65";
+}
+.shek-behcima:before {
+  content: "\67";
+}
+.shek-damavand:before {
+  content: "\68";
+}
+.shek-donate:before {
+  content: "\69";
+}
+.shek-evand:before {
+  content: "\6a";
+}
+.shek-facenama:before {
+  content: "\6b";
+}
+.shek-hafez:before {
+  content: "\6c";
+}
+.shek-hi-web:before {
+  content: "\6d";
+}
+.shek-iriwmf:before {
+  content: "\6e";
+}
+.shek-made-in-iran:before {
+  content: "\6f";
+}
+.shek-zarinpal:before {
+  content: "\70";
+}
+.shek-torob:before {
+  content: "\72";
+}
+.shek-takhtejamshid:before {
+  content: "\73";
+}
+.shek-ponisha:before {
+  content: "\75";
+}
+.shek-pasargad:before {
+  content: "\76";
+}
+.shek-text-bazaar:before {
+  content: "\77";
+}
+.shek-cafe-bazaar:before {
+  content: "\78";
+}
+.shek-bank-saman:before {
+  content: "\79";
+}
+.shek-bank-melli:before {
+  content: "\61";
+}
+.shek-akharin-khabar:before {
+  content: "\7a";
+}
+.shek-asan-pardakht:before {
+  content: "\41";
+}
+.shek-bank-pasargad:before {
+  content: "\43";
+}
+.shek-beh-pardakht:before {
+  content: "\44";
+}
+.shek-net-barg:before {
+  content: "\45";
+}
+.shek-maktab-khone:before {
+  content: "\46";
+}
+.shek-mahak:before {
+  content: "\47";
+}
+.shek-radio-javan:before {
+  content: "\48";
+}
+.shek-telegram:before {
+  content: "\49";
+}
+.shek-rail-style-1:before {
+  content: "\4a";
+}
+.shek-rial-style-2:before {
+  content: "\4b";
+}
+.shek-divar:before {
+  content: "\4c";
+}
+.shek-akhbar-rasmi:before {
+  content: "\74";
+}
+.shek-avatech:before {
+  content: "\4d";
+}
+.shek-cloob:before {
+  content: "\4e";
+}
+.shek-hamrah-aval:before {
+  content: "\4f";
+}
+.shek-bank-mellat:before {
+  content: "\42";
+}
+.shek-takhfifan:before {
+  content: "\50";
+}
+.shek-zood-food:before {
+  content: "\71";
+}
