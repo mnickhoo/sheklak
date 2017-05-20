@@ -18,7 +18,7 @@ sheklak fonts is a css font icons that no need to javaScripts library and simple
 you should include sheklak.css into project to enjoy sheklak fonts :)
 `<link rel="stylesheet" href="sheklak.css">`
 
-you can just used to shek- prefix class
+you can just used to shek- prefix class name
 <h3> example </h3>
 
  `<div class="icon shek-digikala"></div>`
