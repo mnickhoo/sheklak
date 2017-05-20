@@ -1,4 +1,4 @@
-#http://nickhoo.ir/sheklak/demo sheklak V 1.0.0  ~:)
+http://nickhoo.ir/sheklak/demo sheklak V 1.0.0  ~:)
 <link rel="stylesheet" href="http://nickhoo.ir/sheklak/demo/sheklak.css" />
 
 sheklak is a Persian font icons  
