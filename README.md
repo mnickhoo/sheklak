@@ -13,6 +13,6 @@ sheklak fonts is a css font icons that no need to javaScripts library and simple
 you can just used to `shek-` prefix class
 <h3> example </h3>
 
- ## <div class="icon shek-digikala"></div>
+ `<div class="icon shek-digikala"></div>`
 
 
