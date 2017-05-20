@@ -8,6 +8,8 @@ you can now see Demo in [this link](http://nickhoo.ir/sheklak/demo/)
   
 <h3> Discription </h3>
 sheklak fonts is a css font icons that no need to javaScripts library and simple use it. 
+![Demo Sheklak](http://nickhoo.ir/sheklak/demo/demo.png "Logo Title Text 1")
+
 
 <h3>Usage : </h3>
 you can just used to shek- prefix class
