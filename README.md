@@ -10,7 +10,7 @@ you can now see Demo in [this link](http://nickhoo.ir/sheklak/demo/)
 sheklak fonts is a css font icons that no need to javaScripts library and simple use it. 
 
 <h3>Usage : </h3>
-you can just used to shek- prefix class
+you can just used to `shek-` prefix class
 <h3> example </h3>
 <div>
  <div class="icon shek-digikala"></div>
