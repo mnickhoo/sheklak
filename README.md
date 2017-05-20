@@ -9,8 +9,7 @@ you can now see Demo in [this link](http://nickhoo.ir/sheklak/demo/)
 <h3> Discription </h3>
 sheklak fonts is a css font icons that no need to javaScripts library and simple use it. 
 ![Demo Sheklak](http://nickhoo.ir/sheklak/demo/demo.png)
-Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
 
 
 <h3>Usage : </h3>
